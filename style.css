@@ -1,0 +1,136 @@
+@import url('https://fonts.googleleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(45deg, #a447fa, #2a38fa);
+}
+.CARD
+{
+    position: relative;
+    width: 350px;
+    height: 190px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 35px 80px rgba(0,0,0,0.15);
+    transition: 0.5s;
+}
+.CARD:hover
+{
+    height: 450px;
+}
+.imgBx
+{
+   position: absolute;
+   left: 50%;
+   top: -50px;
+   transform: translateX(-50%);
+   width: 150px;
+   height: 150px;
+   background: #fff;
+   border-radius: 20px;
+   box-shadow: 0 15px 50px rgba(0,0,0,0.35);
+   overflow: hidden;
+   transition: 0.5s;
+}    
+.CARD:hover .imgBx
+{
+    width:  250px;
+    height: 250px; 
+}
+.imgBx img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.CARD .content
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    overflow: hidden;
+}
+.CARD .content .details
+{
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    transition: 0.5s;
+    transform: translateY(130px);
+}
+.CARD:hover .content .details 
+{
+    transform: translateY(0px);
+}
+.CARD .content .details h2
+{
+    font-size: 1.25em;
+    font-weight: 600;
+    color: #555;
+    line-height: 1.2em;
+}
+.CARD .content .details h2 span
+{
+    font-size: 0.75em;
+    font-weight: 500;
+    opacity: 0.59;
+}
+.botao {
+    font-size: 0.67em;
+    color: rgb(114, 92, 214);
+    cursor: pointer;
+    transition: opacity 0.5s;
+}
+.botao.hover {
+    opacity: 0.5;
+}
+.social
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    margin: 12px 8px;
+    width: 44px;
+    height: 44px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: opacity 0.5s;
+}
+button.hover {
+    opacity: 0.5;
+}
+button i {
+    color: #ffffff;
+    font-size: 1.4em;
+}
+button.github {
+    background-color: #000000;
+}
+button.linkedin {
+    background-color: #0465a7;
+}
+button.tiktok {
+    background: linear-gradient(120deg, #f01d16b0, #0834f7);
+}
+
+/*adicionar giro para contato
+melhorar desempenho*/ 
