@@ -70,7 +70,7 @@ Por favor, ao usar este código como inspiração, certifique-se de fornecer os 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [MIT License](LICENSE).
 //////////////////////////////////////////////////////////////////English//////////////////////////////////////////////////////////////////////////////////
 
 **Activity Report**
