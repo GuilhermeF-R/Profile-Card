@@ -49,10 +49,10 @@ Em resumo, este projeto é um cartão de perfil interativo que permite ao usuár
 3. Clique no cartão para ver a rotação e obter mais informações.
 
 Certamente! Personalizar o projeto do cartão de perfil é uma ótima maneira de torná-lo único e adaptá-lo às suas próprias necessidades. Aqui estão algumas dicas e orientações sobre como você pode personalizar o projeto:
-Imagem do Perfil: Substitua a imagem do perfil (<img "src="2eu.jpg">) pela sua própria imagem. Certifique-se de que a imagem tenha um tamanho e proporção adequados para se encaixar bem no cartão.
+Imagem do Perfil: Substitua a imagem do perfil "(<img "src="2eu.jpg">)" pela sua própria imagem. Certifique-se de que a imagem tenha um tamanho e proporção adequados para se encaixar bem no cartão.
 Informações Pessoais: No elemento "<.h2>", você pode substituir "Guilherme Ferreira" pelo seu próprio nome e a descrição de "Programador junior | Python | Javascript" por sua própria descrição ou título.
-Redes Sociais: Atualize os links das redes sociais nos botões, como LinkedIn, TikTok e GitHub, para que apontem para seus próprios perfis. Substitua os links nas âncoras "<a href'="#">" pelos URLs corretos.
-Conteúdo do Back (Verso): Personalize o conteúdo do verso do cartão (<div "class="back">") com suas próprias informações. Substitua o texto e adicione detalhes relevantes sobre você, suas habilidades, experiência, interesses, etc. Além disso, você pode adicionar mais botões ou links conforme necessário.
+Redes Sociais: Atualize os links das redes sociais nos botões, como LinkedIn, TikTok e GitHub, para que apontem para seus próprios perfis. Substitua os links nas âncoras "<a href'="#">"" pelos URLs corretos.
+Conteúdo do Back (Verso): Personalize o conteúdo do verso do cartão "('<div "class="back">")" com suas próprias informações. Substitua o texto e adicione detalhes relevantes sobre você, suas habilidades, experiência, interesses, etc. Além disso, você pode adicionar mais botões ou links conforme necessário.
 Estilos CSS: Modifique o CSS no <style> para personalizar as cores, fontes, tamanhos e estilos do texto, botões e outros elementos. Isso permitirá que você adapte a aparência do cartão ao seu gosto pessoal.
 Tamanho do Cartão: Você pode ajustar o tamanho do cartão alterando as propriedades de largura e altura em .CARD e .imgBx, bem como a altura máxima no estado de hover.
 Outras Personalizações: Sinta-se à vontade para adicionar outros elementos, como ícones, imagens de fundo, animações ou quaisquer outros elementos visuais que desejar.
