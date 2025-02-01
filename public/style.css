@@ -1,6 +1,3 @@
-
-/* Importa a fonte Poppins do Google Fonts e define estilos padrão para elementos */
-@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
 * {
     margin: 0;
     padding: 0;
@@ -296,5 +293,5 @@ button.instagram {
 button.instagram:hover {
     opacity: 0.5;
 }
-/*site feito por GUILHERME FERREIRA ou DevFerreira
-/*"https://github.com/GuilhermeF-R"*/
+/* site feito por GUILHERME FERREIRA ou DevFerreira */
+/* "https://github.com/GuilhermeF-R" */
