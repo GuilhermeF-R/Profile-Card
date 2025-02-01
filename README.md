@@ -1,4 +1,4 @@
-# :star2: Projeto: Profile-Card 
+# :star2: Projeto: [Profile-Card](https://profile-card-iota-bice.vercel.app/) 
 Este projeto é o resultado do meu contínuo aprimoramento e dedicação nos estudos relacionados à área de front-end, onde demonstro minhas habilidades em CSS, HTML e JavaScript.
 Ao adicionar mais um projeto ao meu portfólio, busco não apenas destacar meu progresso, mas também oferecer uma visão clara da minha dedicação ao constante aperfeiçoamento.
 Cada linha de código reflete minha paixão pela criação de experiências digitais envolventes e esteticamente agradáveis.
